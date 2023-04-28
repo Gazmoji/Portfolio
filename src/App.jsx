@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import { NavBar } from "../src/components/Navbar";
+import { NavBar } from "../src/components/NavBar";
 import { Banner } from "../src/components/Banner";
 import { Skills } from "../src/components/Skills";
 import { Projects } from "../src/components/Projects";
