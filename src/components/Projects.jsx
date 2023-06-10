@@ -23,7 +23,7 @@ export const Projects = () => {
       description:
         "This app was created to manipulate stored data into a music sharing website where people can talk about music to other people in multiple ways such as with blog posts and chatrooms.",
       imgURL: "https://i.gyazo.com/a8689119312b4377536f68f706c36e48.png",
-      imgLink: "https://soundproof-demo.onrender.com",
+      imgLink: "https://sound-proof.onrender.com/register",
     },
     {
       title: "Poke-Squad",

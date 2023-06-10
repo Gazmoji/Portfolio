@@ -55,12 +55,12 @@ export const Banner = () => {
               <span className="wrap">{text}</span>
             </h1>
             <p>
-              An aspiring Fullstack Software Engineer with a passion for
-              creating and customizing web applications. A versatile team-player
-              who is also capable of working independently. Excels in a
-              professional work environment and ready to adapt to the constantly
-              changing world of coding. Strong background in human relations and
-              organization.{" "}
+              An aspiring teacher turned Fullstack Software Engineer with a
+              passion for creating and customizing web applications. A versatile
+              team-player who is also capable of working independently. Excels
+              in a professional work environment and ready to adapt to the
+              constantly changing world of coding. Strong background in human
+              relations and organization.{" "}
             </p>
           </Col>
         </Row>
