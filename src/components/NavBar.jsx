@@ -82,10 +82,7 @@ export const NavBar = () => {
                     width="50px"
                   />
                 </a>
-                <a
-                  href="GeorgeAngelidis-WebDeveloper-Resume-2023.pdf"
-                  download=""
-                >
+                <a href="GeorgeAngelidis-WebDeveloper-Resume-2023" download="">
                   <img
                     src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png"
                     width="50px"
